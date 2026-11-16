@@ -205,6 +205,22 @@ Planned database entities:
 | DeepSeek | [Website](https://www.deepseek.com/) | [API Docs](https://api-docs.deepseek.com/) | Yes | Some |
 | Hugging Face | [Website](https://huggingface.co/) | [API Docs](https://huggingface.co/docs/inference-providers/index) | Yes | Some |
 
+
+## Supported AI Providers
+
+| Provider | Official Website | API Documentation | API Support | Free Models |
+|---|---|---|---|---|
+| Groq | <a href="https://groq.com/" target="_blank">Website ↗</a> | <a href="https://console.groq.com/docs/overview" target="_blank">API Docs ↗</a> | Yes | Yes |
+| NVIDIA NIM | <a href="https://build.nvidia.com/" target="_blank">Website ↗</a> | <a href="https://docs.api.nvidia.com/nim/reference/overview" target="_blank">API Docs ↗</a> | Yes | Yes |
+| OpenRouter | <a href="https://openrouter.ai/" target="_blank">Website ↗</a> | <a href="https://openrouter.ai/docs" target="_blank">API Docs ↗</a> | Yes | Yes |
+| Google Gemini | <a href="https://ai.google.dev/" target="_blank">Website ↗</a> | <a href="https://ai.google.dev/gemini-api/docs" target="_blank">API Docs ↗</a> | Yes | Yes |
+| Cerebras | <a href="https://www.cerebras.ai/" target="_blank">Website ↗</a> | <a href="https://inference-docs.cerebras.ai/" target="_blank">API Docs ↗</a> | Yes | Yes |
+| Together AI | <a href="https://www.together.ai/" target="_blank">Website ↗</a> | <a href="https://docs.together.ai/" target="_blank">API Docs ↗</a> | Yes | Yes |
+| Fireworks AI | <a href="https://fireworks.ai/" target="_blank">Website ↗</a> | <a href="https://docs.fireworks.ai/" target="_blank">API Docs ↗</a> | Yes | Some |
+| Mistral AI | <a href="https://mistral.ai/" target="_blank">Website ↗</a> | <a href="https://docs.mistral.ai/" target="_blank">API Docs ↗</a> | Yes | Some |
+| DeepSeek | <a href="https://www.deepseek.com/" target="_blank">Website ↗</a> | <a href="https://api-docs.deepseek.com/" target="_blank">API Docs ↗</a> | Yes | Some |
+| Hugging Face | <a href="https://huggingface.co/" target="_blank">Website ↗</a> | <a href="https://huggingface.co/docs/inference-providers/index" target="_blank">API Docs ↗</a> | Yes | Some |
+
 ## Security
 
 - API keys must be encrypted before database storage.
