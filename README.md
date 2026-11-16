@@ -194,22 +194,6 @@ Planned database entities:
 
 | Provider | Official Website | API Documentation | API Support | Free Models |
 |---|---|---|---|---|
-| Groq | [Website](https://groq.com/) | [API Docs](https://console.groq.com/docs/overview) | Yes | Yes |
-| NVIDIA NIM | [Website](https://build.nvidia.com/) | [API Docs](https://docs.api.nvidia.com/nim/reference/overview) | Yes | Yes |
-| OpenRouter | [Website](https://openrouter.ai/) | [API Docs](https://openrouter.ai/docs) | Yes | Yes |
-| Google Gemini | [Website](https://ai.google.dev/) | [API Docs](https://ai.google.dev/gemini-api/docs) | Yes | Yes |
-| Cerebras | [Website](https://www.cerebras.ai/) | [API Docs](https://inference-docs.cerebras.ai/) | Yes | Yes |
-| Together AI | [Website](https://www.together.ai/) | [API Docs](https://docs.together.ai/) | Yes | Yes |
-| Fireworks AI | [Website](https://fireworks.ai/) | [API Docs](https://docs.fireworks.ai/) | Yes | Some |
-| Mistral AI | [Website](https://mistral.ai/) | [API Docs](https://docs.mistral.ai/) | Yes | Some |
-| DeepSeek | [Website](https://www.deepseek.com/) | [API Docs](https://api-docs.deepseek.com/) | Yes | Some |
-| Hugging Face | [Website](https://huggingface.co/) | [API Docs](https://huggingface.co/docs/inference-providers/index) | Yes | Some |
-
-
-## Supported AI Providers
-
-| Provider | Official Website | API Documentation | API Support | Free Models |
-|---|---|---|---|---|
 | Groq | <a href="https://groq.com/" target="_blank">Website ↗</a> | <a href="https://console.groq.com/docs/overview" target="_blank">API Docs ↗</a> | Yes | Yes |
 | NVIDIA NIM | <a href="https://build.nvidia.com/" target="_blank">Website ↗</a> | <a href="https://docs.api.nvidia.com/nim/reference/overview" target="_blank">API Docs ↗</a> | Yes | Yes |
 | OpenRouter | <a href="https://openrouter.ai/" target="_blank">Website ↗</a> | <a href="https://openrouter.ai/docs" target="_blank">API Docs ↗</a> | Yes | Yes |
